@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/miniGame-React-Redux/static/css/main.b52f53fb.css",
+    "main.js": "/miniGame-React-Redux/static/js/main.75519f46.js",
+    "static/media/pngwing.png": "/miniGame-React-Redux/static/media/pngwing.2cb90de08f9fe23ced05.png",
+    "static/media/correct.png": "/miniGame-React-Redux/static/media/correct.f13bb84ee842ea1e8344.png",
+    "static/media/yes.png": "/miniGame-React-Redux/static/media/yes.95aafd55779da8ced26e.png",
+    "static/media/no.png": "/miniGame-React-Redux/static/media/no.f3b8133b6197af315b97.png",
+    "index.html": "/miniGame-React-Redux/index.html",
+    "main.b52f53fb.css.map": "/miniGame-React-Redux/static/css/main.b52f53fb.css.map",
+    "main.75519f46.js.map": "/miniGame-React-Redux/static/js/main.75519f46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52f53fb.css",
+    "static/js/main.75519f46.js"
+  ]
+}
